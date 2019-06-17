@@ -1,6 +1,4 @@
-# SEI-Project-3
-
-# ReadMe Project 3
+# Project-03
 
 ## Timeframe - 8 days in a group of 4 developers
 
